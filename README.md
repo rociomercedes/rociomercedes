@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @rociomercedes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @rociomercedes. I'm 24 years old and I'm from Argentina 🌟🌎 
+I'm currently focusing on building a strong portfolio of projects to showcase to potential employers 🏗️💼 
+while also improving my technical and communication skills.
+💪📚 Programming is a constantly evolving field, so I'm always learning and updating my skills. 🌱📈
 
-<!---
-rociomercedes/rociomercedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Some things I do, apart from studying and programming, are playing volleyball 🏐 and reading books. 📚
+
+🌱 I’m currently learning JAVA , deepening my knowledge in SQL, and in the near future, I will probably learn React.
+
+💞️ I am looking to collaborate with anyone with whom I can share tips, advice, and learning.
+
+📫 How to reach me:  https://rociomercedes.github.io/#section-contact
+
+
+
+
