@@ -1,4 +1,4 @@
-👋 Hi, I’m @rociomercedes. I'm 24 years old and I'm from Argentina 🌟🌎 
+👋 Hi, I’m @rociomercedes. I'm 26years old and I'm from Argentina 🌟🌎 
 I'm currently focusing on building a strong portfolio of projects to showcase to potential employers 🏗️💼 
 while also improving my technical and communication skills.
 💪📚 Programming is a constantly evolving field, so I'm always learning and updating my skills. 🌱📈
